@@ -1,0 +1,1272 @@
+JobID: 66559357
+Job starting ...
+Epoch: 0
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 0: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 0: 0.028246471372012732
+Average loss of validation set 0: 0.028081536881046795
+Lowest val_loss: 2.8081536881046794... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 0: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [0, 0, 0, 0]]
+Epoch: 1
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 1: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 1: 0.030962289852241153
+Average loss of validation set 1: 0.030965305277248327
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 1: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [1, 1, 1, 1]]
+Epoch: 2
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 2: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 2: 0.008368909981044115
+Average loss of validation set 2: 0.008405240888415098
+Lowest val_loss: 0.8405240888415099... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 2: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [2, 2, 2, 2]]
+Epoch: 3
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 3: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 3: 0.016010306013445108
+Average loss of validation set 3: 0.0159281126838499
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 3: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [3, 3, 3, 3]]
+Epoch: 4
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 4: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 4: 0.01286073495872945
+Average loss of validation set 4: 0.012786980930907205
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 4: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [4, 4, 4, 4]]
+Epoch: 5
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 5: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 5: 0.00422409545612227
+Average loss of validation set 5: 0.004121085573277057
+Lowest val_loss: 0.4121085573277057... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 5: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [5, 5, 5, 5]]
+Epoch: 6
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 6: [0.0, 0.0, 0.0, 0.0033333333333333335] 
+Average loss of training set 6: 0.004137264820766764
+Average loss of validation set 6: 0.004149357303249322
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 6: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [6, 6, 6, 6]]
+Epoch: 7
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 7: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 7: 0.005484960547950079
+Average loss of validation set 7: 0.005469292497234942
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 7: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [7, 7, 7, 7]]
+Epoch: 8
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 8: [0.0, 0.0, 0.0, 0.0] 
+Average loss of training set 8: 0.0034504361578051564
+Average loss of validation set 8: 0.0034548766498444035
+Lowest val_loss: 0.34548766498444033... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 8: [0.0, 0.0, 0.0, 0.0]
+[best: [0.0, 0.0, 0.0, 0.0] @ epoch [8, 8, 8, 8]]
+Epoch: 9
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 9: [0.052222222222222225, 0.2877777777777778, 0.5566666666666666, 0.8133333333333334] 
+Average loss of training set 9: 0.0005719524269482916
+Average loss of validation set 9: 0.0005866547460365438
+Lowest val_loss: 0.05866547460365438... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 9: [0.05, 0.25, 0.51, 0.79]
+[best: [0.05, 0.25, 0.51, 0.79] @ epoch [9, 9, 9, 9]]
+Epoch: 10
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 10: [0.05444444444444444, 0.29333333333333333, 0.5233333333333333, 0.7933333333333333] 
+Average loss of training set 10: 0.0004969377654412542
+Average loss of validation set 10: 0.0005268443442554386
+Lowest val_loss: 0.05268443442554386... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 10: [0.05, 0.27, 0.47, 0.74]
+[best: [0.05, 0.27, 0.51, 0.79] @ epoch [10, 10, 9, 9]]
+Epoch: 11
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 11: [0.08222222222222222, 0.36333333333333334, 0.5988888888888889, 0.8533333333333334] 
+Average loss of training set 11: 0.0004561005619972409
+Average loss of validation set 11: 0.00047016115405975104
+Lowest val_loss: 0.047016115405975105... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 11: [0.07, 0.32, 0.55, 0.84]
+[best: [0.07, 0.32, 0.55, 0.84] @ epoch [11, 11, 11, 11]]
+Epoch: 12
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 12: [0.05333333333333334, 0.2511111111111111, 0.5477777777777778, 0.8344444444444444] 
+Average loss of training set 12: 0.0005161558068510482
+Average loss of validation set 12: 0.0004833058718417663
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 12: [0.08, 0.29, 0.54, 0.82]
+[best: [0.08, 0.32, 0.55, 0.84] @ epoch [12, 11, 11, 11]]
+Epoch: 13
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 13: [0.07777777777777778, 0.41888888888888887, 0.7022222222222222, 0.9188888888888889] 
+Average loss of training set 13: 0.00037601044870125315
+Average loss of validation set 13: 0.0004139377683648103
+Lowest val_loss: 0.04139377683648103... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 13: [0.06, 0.33, 0.65, 0.93]
+[best: [0.08, 0.33, 0.65, 0.93] @ epoch [12, 13, 13, 13]]
+Epoch: 14
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 14: [0.11444444444444445, 0.44222222222222224, 0.7355555555555555, 0.9755555555555555] 
+Average loss of training set 14: 0.0003410900152342763
+Average loss of validation set 14: 0.000339614364822983
+Lowest val_loss: 0.033961436482298296... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 14: [0.14, 0.4, 0.68, 0.98]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 15
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 15: [0.09111111111111111, 0.3977777777777778, 0.68, 0.8933333333333333] 
+Average loss of training set 15: 0.0003895827844018009
+Average loss of validation set 15: 0.00043610792653723477
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 15: [0.1, 0.34, 0.64, 0.87]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 16
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 16: [0.08, 0.3433333333333333, 0.6033333333333334, 0.8355555555555556] 
+Average loss of training set 16: 0.00046428123903525365
+Average loss of validation set 16: 0.0005168882524996762
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 16: [0.07, 0.31, 0.54, 0.76]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 17
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 17: [0.06444444444444444, 0.3277777777777778, 0.6377777777777778, 0.8833333333333333] 
+Average loss of training set 17: 0.00042451951840446643
+Average loss of validation set 17: 0.0004396541719608309
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 17: [0.07, 0.28, 0.58, 0.83]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 18
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 18: [0.016666666666666666, 0.07111111111111111, 0.21444444444444444, 0.5366666666666666] 
+Average loss of training set 18: 0.0010975569608285584
+Average loss of validation set 18: 0.0010969279068242374
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 18: [0.01, 0.09, 0.19, 0.52]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 19
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 19: [0.07666666666666666, 0.28444444444444444, 0.59, 0.9255555555555556] 
+Average loss of training set 19: 0.0004384208960584225
+Average loss of validation set 19: 0.0004483405806409832
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 19: [0.09, 0.32, 0.62, 0.9]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 20
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 20: [0.028888888888888888, 0.1322222222222222, 0.26, 0.6466666666666666] 
+Average loss of training set 20: 0.0006757031061571904
+Average loss of validation set 20: 0.000708600592570897
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 20: [0.03, 0.09, 0.21, 0.61]
+[best: [0.14, 0.4, 0.68, 0.98] @ epoch [14, 14, 14, 14]]
+Epoch: 21
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 21: [0.06666666666666667, 0.4033333333333333, 0.71, 0.9222222222222223] 
+Average loss of training set 21: 0.00038321429477649596
+Average loss of validation set 21: 0.00037448576128504095
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 21: [0.11, 0.38, 0.7, 0.89]
+[best: [0.14, 0.4, 0.7, 0.98] @ epoch [14, 14, 21, 14]]
+Epoch: 22
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 22: [0.07888888888888888, 0.3488888888888889, 0.6922222222222222, 0.9588888888888889] 
+Average loss of training set 22: 0.00045977574455337473
+Average loss of validation set 22: 0.00038973120007326
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 22: [0.11, 0.43, 0.74, 0.96]
+[best: [0.14, 0.43, 0.74, 0.98] @ epoch [14, 22, 22, 14]]
+Epoch: 23
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 23: [0.052222222222222225, 0.31777777777777777, 0.6188888888888889, 0.9666666666666667] 
+Average loss of training set 23: 0.00041168755106874564
+Average loss of validation set 23: 0.00041126998312954416
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 23: [0.08, 0.25, 0.58, 0.96]
+[best: [0.14, 0.43, 0.74, 0.98] @ epoch [14, 22, 22, 14]]
+Epoch: 24
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 24: [0.04666666666666667, 0.2722222222222222, 0.63, 0.8711111111111111] 
+Average loss of training set 24: 0.00048136819145919824
+Average loss of validation set 24: 0.0004766194296532273
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 24: [0.05, 0.28, 0.66, 0.83]
+[best: [0.14, 0.43, 0.74, 0.98] @ epoch [14, 22, 22, 14]]
+Epoch: 25
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 25: [0.05444444444444444, 0.28555555555555556, 0.6155555555555555, 0.9] 
+Average loss of training set 25: 0.00043963693043016
+Average loss of validation set 25: 0.00043731023516245515
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 25: [0.05, 0.28, 0.65, 0.86]
+[best: [0.14, 0.43, 0.74, 0.98] @ epoch [14, 22, 22, 14]]
+Epoch: 26
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 26: [0.10666666666666667, 0.4955555555555556, 0.7822222222222223, 0.95] 
+Average loss of training set 26: 0.0003002810393480005
+Average loss of validation set 26: 0.00031235483282949513
+Lowest val_loss: 0.031235483282949512... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 26: [0.07, 0.47, 0.72, 0.92]
+[best: [0.14, 0.47, 0.74, 0.98] @ epoch [14, 26, 22, 14]]
+Epoch: 27
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 27: [0.058888888888888886, 0.3566666666666667, 0.7066666666666667, 0.93] 
+Average loss of training set 27: 0.0003812799178471241
+Average loss of validation set 27: 0.0003677760841118866
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 27: [0.04, 0.31, 0.71, 0.91]
+[best: [0.14, 0.47, 0.74, 0.98] @ epoch [14, 26, 22, 14]]
+Epoch: 28
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 28: [0.052222222222222225, 0.3211111111111111, 0.6444444444444445, 0.9033333333333333] 
+Average loss of training set 28: 0.0003694227327710151
+Average loss of validation set 28: 0.00038999964132049435
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 28: [0.05, 0.27, 0.6, 0.89]
+[best: [0.14, 0.47, 0.74, 0.98] @ epoch [14, 26, 22, 14]]
+Epoch: 29
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 29: [0.022222222222222223, 0.17777777777777778, 0.4911111111111111, 0.8633333333333333] 
+Average loss of training set 29: 0.00058507402911178
+Average loss of validation set 29: 0.0005847169967663018
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 29: [0.04, 0.2, 0.48, 0.83]
+[best: [0.14, 0.47, 0.74, 0.98] @ epoch [14, 26, 22, 14]]
+Epoch: 30
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 30: [0.14666666666666667, 0.5922222222222222, 0.8555555555555555, 0.9877777777777778] 
+Average loss of training set 30: 0.00026906673774461506
+Average loss of validation set 30: 0.0002806331954287605
+Lowest val_loss: 0.028063319542876046... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 30: [0.18, 0.52, 0.83, 0.98]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 30]]
+Epoch: 31
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 31: [0.04555555555555556, 0.2288888888888889, 0.49333333333333335, 0.8466666666666667] 
+Average loss of training set 31: 0.00044930150231877044
+Average loss of validation set 31: 0.0004776864858920859
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 31: [0.02, 0.18, 0.47, 0.78]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 30]]
+Epoch: 32
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 32: [0.08888888888888889, 0.4111111111111111, 0.7355555555555555, 0.9722222222222222] 
+Average loss of training set 32: 0.0003081164314446533
+Average loss of validation set 32: 0.0003114898996639268
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 32: [0.07, 0.4, 0.66, 0.98]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 33
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 33: [0.10444444444444445, 0.47555555555555556, 0.7733333333333333, 0.9466666666666667] 
+Average loss of training set 33: 0.00030843839423018134
+Average loss of validation set 33: 0.0003091094850989209
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 33: [0.08, 0.48, 0.79, 0.9]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 34
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 34: [0.09666666666666666, 0.4033333333333333, 0.7377777777777778, 0.9211111111111111] 
+Average loss of training set 34: 0.00032267524672888106
+Average loss of validation set 34: 0.00033660435615739227
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 34: [0.11, 0.38, 0.7, 0.91]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 35
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 35: [0.022222222222222223, 0.15333333333333332, 0.4666666666666667, 0.9566666666666667] 
+Average loss of training set 35: 0.000570254973812442
+Average loss of validation set 35: 0.00050860310102912
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 35: [0.05, 0.18, 0.51, 0.92]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 36
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 36: [0.02, 0.09666666666666666, 0.24666666666666667, 0.7522222222222222] 
+Average loss of training set 36: 0.0007783236842358542
+Average loss of validation set 36: 0.0007491466875850675
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 36: [0.03, 0.11, 0.29, 0.69]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 37
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 37: [0.11444444444444445, 0.5166666666666667, 0.7866666666666666, 0.9511111111111111] 
+Average loss of training set 37: 0.00029650343264528363
+Average loss of validation set 37: 0.00033252311334649147
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 37: [0.13, 0.48, 0.73, 0.9]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 38
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 38: [0.05333333333333334, 0.37666666666666665, 0.7533333333333333, 0.91] 
+Average loss of training set 38: 0.00032923604732677846
+Average loss of validation set 38: 0.0003583879614672944
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 38: [0.06, 0.29, 0.67, 0.87]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 39
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 39: [0.16333333333333333, 0.4911111111111111, 0.7888888888888889, 0.9655555555555555] 
+Average loss of training set 39: 0.00027298563831414167
+Average loss of validation set 39: 0.0002656822221787821
+Lowest val_loss: 0.02656822221787821... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 39: [0.15, 0.5, 0.78, 0.96]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 40
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 40: [0.04, 0.19, 0.5344444444444445, 0.9266666666666666] 
+Average loss of training set 40: 0.0004978537949969746
+Average loss of validation set 40: 0.0004454201254113006
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 40: [0.08, 0.24, 0.54, 0.9]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 41
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 41: [0.03333333333333333, 0.18444444444444444, 0.4311111111111111, 0.9466666666666667] 
+Average loss of training set 41: 0.00046379096893682124
+Average loss of validation set 41: 0.0004911422982889956
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 41: [0.03, 0.13, 0.37, 0.95]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 32]]
+Epoch: 42
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 42: [0.08, 0.4288888888888889, 0.8377777777777777, 0.9866666666666667] 
+Average loss of training set 42: 0.0002861305647069359
+Average loss of validation set 42: 0.00030408638475658246
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 42: [0.08, 0.43, 0.79, 0.98]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 42]]
+Epoch: 43
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 43: [0.06, 0.38, 0.7766666666666666, 0.9633333333333334] 
+Average loss of training set 43: 0.00035432070044187885
+Average loss of validation set 43: 0.0002943846753148755
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 43: [0.1, 0.4, 0.78, 0.95]
+[best: [0.18, 0.52, 0.83, 0.98] @ epoch [30, 30, 30, 42]]
+Epoch: 44
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 44: [0.06222222222222222, 0.2722222222222222, 0.6944444444444444, 0.9822222222222222] 
+Average loss of training set 44: 0.00037011851195601497
+Average loss of validation set 44: 0.00039235629235873147
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 44: [0.04, 0.26, 0.6, 0.99]
+[best: [0.18, 0.52, 0.83, 0.99] @ epoch [30, 30, 30, 44]]
+Epoch: 45
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 45: [0.1288888888888889, 0.59, 0.8322222222222222, 0.9533333333333334] 
+Average loss of training set 45: 0.000255246450532896
+Average loss of validation set 45: 0.00027930287076308
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 45: [0.17, 0.52, 0.79, 0.92]
+[best: [0.18, 0.52, 0.83, 0.99] @ epoch [30, 45, 30, 44]]
+Epoch: 46
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 46: [0.06111111111111111, 0.33111111111111113, 0.7544444444444445, 0.9833333333333333] 
+Average loss of training set 46: 0.0003476954102492993
+Average loss of validation set 46: 0.0003729489565070942
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 46: [0.02, 0.25, 0.67, 0.98]
+[best: [0.18, 0.52, 0.83, 0.99] @ epoch [30, 45, 30, 44]]
+Epoch: 47
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 47: [0.025555555555555557, 0.15666666666666668, 0.4922222222222222, 0.9366666666666666] 
+Average loss of training set 47: 0.0004583271813815039
+Average loss of validation set 47: 0.0004703455242233708
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 47: [0.04, 0.15, 0.43, 0.97]
+[best: [0.18, 0.52, 0.83, 0.99] @ epoch [30, 45, 30, 44]]
+Epoch: 48
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 48: [0.023333333333333334, 0.12111111111111111, 0.34, 0.8322222222222222] 
+Average loss of training set 48: 0.0005265380385451241
+Average loss of validation set 48: 0.0005487809402407125
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 48: [0.02, 0.1, 0.29, 0.83]
+[best: [0.18, 0.52, 0.83, 0.99] @ epoch [30, 45, 30, 44]]
+Epoch: 49
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 49: [0.15777777777777777, 0.7166666666666667, 0.9211111111111111, 0.99] 
+Average loss of training set 49: 0.00020393819331362262
+Average loss of validation set 49: 0.00019908805542669542
+Lowest val_loss: 0.019908805542669543... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 49: [0.16, 0.67, 0.92, 1.0]
+[best: [0.18, 0.67, 0.92, 1.0] @ epoch [30, 49, 49, 49]]
+Epoch: 50
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 50: [0.11555555555555555, 0.4477777777777778, 0.7588888888888888, 0.9788888888888889] 
+Average loss of training set 50: 0.00031848870520299026
+Average loss of validation set 50: 0.0003518496130223095
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 50: [0.1, 0.39, 0.68, 0.96]
+[best: [0.18, 0.67, 0.92, 1.0] @ epoch [30, 49, 49, 49]]
+Epoch: 51
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 51: [0.09222222222222222, 0.4955555555555556, 0.85, 0.9844444444444445] 
+Average loss of training set 51: 0.00027309680959808195
+Average loss of validation set 51: 0.00026099555891429503
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 51: [0.06, 0.53, 0.82, 0.96]
+[best: [0.18, 0.67, 0.92, 1.0] @ epoch [30, 49, 49, 49]]
+Epoch: 52
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 52: [0.11888888888888889, 0.5577777777777778, 0.8855555555555555, 0.9922222222222222] 
+Average loss of training set 52: 0.0002410079858157026
+Average loss of validation set 52: 0.00024382087575007218
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 52: [0.12, 0.51, 0.86, 0.99]
+[best: [0.18, 0.67, 0.92, 1.0] @ epoch [30, 49, 49, 49]]
+Epoch: 53
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 53: [0.1, 0.5577777777777778, 0.8622222222222222, 0.9944444444444445] 
+Average loss of training set 53: 0.00027463687468221064
+Average loss of validation set 53: 0.0002465964480754607
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 53: [0.14, 0.56, 0.91, 0.98]
+[best: [0.18, 0.67, 0.92, 1.0] @ epoch [30, 49, 49, 49]]
+Epoch: 54
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 54: [0.1411111111111111, 0.7022222222222222, 0.91, 0.9933333333333333] 
+Average loss of training set 54: 0.00020692877710124156
+Average loss of validation set 54: 0.0002009307321302324
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 54: [0.19, 0.64, 0.85, 0.99]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 55
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 55: [0.07222222222222222, 0.49, 0.7788888888888889, 0.9533333333333334] 
+Average loss of training set 55: 0.0003008733958397331
+Average loss of validation set 55: 0.00027408000427996566
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 55: [0.09, 0.49, 0.79, 0.9]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 56
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 56: [0.08666666666666667, 0.44222222222222224, 0.76, 0.8833333333333333] 
+Average loss of training set 56: 0.0003138136702745574
+Average loss of validation set 56: 0.00030908964916093
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 56: [0.09, 0.42, 0.77, 0.87]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 57
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 57: [0.056666666666666664, 0.33111111111111113, 0.7177777777777777, 0.9588888888888889] 
+Average loss of training set 57: 0.00039926184389199994
+Average loss of validation set 57: 0.00033896948156721856
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 57: [0.08, 0.41, 0.74, 0.91]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 58
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 58: [0.035555555555555556, 0.1922222222222222, 0.4688888888888889, 0.8777777777777778] 
+Average loss of training set 58: 0.0004392295642736031
+Average loss of validation set 58: 0.00045565490217693635
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 58: [0.0, 0.12, 0.45, 0.88]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 59
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 59: [0.08555555555555555, 0.42333333333333334, 0.7322222222222222, 0.8877777777777778] 
+Average loss of training set 59: 0.0003006979406326475
+Average loss of validation set 59: 0.00030533060702436283
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 59: [0.09, 0.37, 0.76, 0.86]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch: 60
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 60: [0.10444444444444445, 0.5922222222222222, 0.8233333333333334, 0.9444444444444444] 
+Average loss of training set 60: 0.0002514351159311686
+Average loss of validation set 60: 0.00027180391321039146
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 60: [0.06, 0.55, 0.79, 0.91]
+[best: [0.19, 0.67, 0.92, 1.0] @ epoch [54, 49, 49, 49]]
+Epoch 00040: reducing learning rate of group 0 to 2.0000e-04.
+Epoch: 61
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 61: [0.22333333333333333, 0.7577777777777778, 0.9388888888888889, 0.9966666666666667] 
+Average loss of training set 61: 0.00018339490123909683
+Average loss of validation set 61: 0.0001910853800443578
+Lowest val_loss: 0.01910853800443578... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 61: [0.17, 0.73, 0.93, 1.0]
+[best: [0.19, 0.73, 0.93, 1.0] @ epoch [54, 61, 61, 61]]
+Epoch: 62
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 62: [0.03777777777777778, 0.26555555555555554, 0.7022222222222222, 0.9511111111111111] 
+Average loss of training set 62: 0.0003805577765017646
+Average loss of validation set 62: 0.00035556279422925747
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 62: [0.07, 0.31, 0.7, 0.89]
+[best: [0.19, 0.73, 0.93, 1.0] @ epoch [54, 61, 61, 61]]
+Epoch: 63
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 63: [0.21, 0.7744444444444445, 0.9455555555555556, 0.9977777777777778] 
+Average loss of training set 63: 0.00017696098982518296
+Average loss of validation set 63: 0.00015501795017309905
+Lowest val_loss: 0.015501795017309906... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 63: [0.28, 0.8, 0.96, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 61]]
+Epoch: 64
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 64: [0.14444444444444443, 0.65, 0.8855555555555555, 0.9855555555555555] 
+Average loss of training set 64: 0.00020002513760013777
+Average loss of validation set 64: 0.00021006259733685997
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 64: [0.14, 0.54, 0.85, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 61]]
+Epoch: 65
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 65: [0.09, 0.5211111111111111, 0.8677777777777778, 0.9933333333333333] 
+Average loss of training set 65: 0.0002596244652977548
+Average loss of validation set 65: 0.00024061158903911667
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 65: [0.1, 0.51, 0.84, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 61]]
+Epoch: 66
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 66: [0.09555555555555556, 0.5266666666666666, 0.88, 0.9933333333333333] 
+Average loss of training set 66: 0.0002587763828177856
+Average loss of validation set 66: 0.0002468333224224082
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 66: [0.08, 0.5, 0.88, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 61]]
+Epoch: 67
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 67: [0.19111111111111112, 0.69, 0.9433333333333334, 0.9933333333333333] 
+Average loss of training set 67: 0.00019484066132128397
+Average loss of validation set 67: 0.00020643794311391516
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 67: [0.17, 0.63, 0.91, 1.0]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 67]]
+Epoch: 68
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 68: [0.09777777777777778, 0.5844444444444444, 0.8633333333333333, 0.9844444444444445] 
+Average loss of training set 68: 0.00022018858847059976
+Average loss of validation set 68: 0.00023057743884783634
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 68: [0.14, 0.46, 0.83, 1.0]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 68]]
+Epoch: 69
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 69: [0.14333333333333334, 0.6411111111111111, 0.8822222222222222, 0.9933333333333333] 
+Average loss of training set 69: 0.00020676518600241904
+Average loss of validation set 69: 0.00021191053322036247
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 69: [0.07, 0.62, 0.86, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 68]]
+Epoch: 70
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 70: [0.12333333333333334, 0.6944444444444444, 0.9277777777777778, 0.9955555555555555] 
+Average loss of training set 70: 0.00019960975784402756
+Average loss of validation set 70: 0.0002054110949211139
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 70: [0.13, 0.64, 0.95, 1.0]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 71
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 71: [0.06777777777777778, 0.4488888888888889, 0.8444444444444444, 0.9644444444444444] 
+Average loss of training set 71: 0.0002856351705584903
+Average loss of validation set 71: 0.0002634632844621758
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 71: [0.06, 0.52, 0.82, 0.92]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 72
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 72: [0.20444444444444446, 0.6855555555555556, 0.9433333333333334, 0.9988888888888889] 
+Average loss of training set 72: 0.00018557320951982173
+Average loss of validation set 72: 0.00018899590060342573
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 72: [0.13, 0.63, 0.95, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 73
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 73: [0.21777777777777776, 0.7466666666666667, 0.9233333333333333, 0.9933333333333333] 
+Average loss of training set 73: 0.00016825488796396156
+Average loss of validation set 73: 0.00017436494605504223
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 73: [0.19, 0.72, 0.88, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 74
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 74: [0.034444444444444444, 0.20777777777777778, 0.5166666666666667, 0.8822222222222222] 
+Average loss of training set 74: 0.0004025512480504083
+Average loss of validation set 74: 0.0004226039824237611
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 74: [0.03, 0.18, 0.5, 0.84]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch 00054: reducing learning rate of group 0 to 1.0000e-04.
+Epoch: 75
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 75: [0.17777777777777778, 0.7455555555555555, 0.9211111111111111, 0.9955555555555555] 
+Average loss of training set 75: 0.0001800236402603472
+Average loss of validation set 75: 0.0001748066503655456
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 75: [0.15, 0.72, 0.88, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 76
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 76: [0.18222222222222223, 0.7633333333333333, 0.9122222222222223, 0.9933333333333333] 
+Average loss of training set 76: 0.00016749902403794187
+Average loss of validation set 76: 0.00017466705176264968
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 76: [0.18, 0.73, 0.87, 0.99]
+[best: [0.28, 0.8, 0.96, 1.0] @ epoch [63, 63, 63, 70]]
+Epoch: 77
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 77: [0.2833333333333333, 0.8377777777777777, 0.9555555555555556, 0.9988888888888889] 
+Average loss of training set 77: 0.00014130179226218693
+Average loss of validation set 77: 0.00014584909436543314
+Lowest val_loss: 0.014584909436543314... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 77: [0.26, 0.84, 0.96, 1.0]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 77, 77]]
+Epoch: 78
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 78: [0.29333333333333333, 0.86, 0.9622222222222222, 0.9988888888888889] 
+Average loss of training set 78: 0.00013833110066204638
+Average loss of validation set 78: 0.00014735280688627728
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 78: [0.19, 0.8, 0.96, 1.0]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 78, 78]]
+Epoch: 79
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 79: [0.19333333333333333, 0.7733333333333333, 0.9511111111111111, 0.9966666666666667] 
+Average loss of training set 79: 0.00015742749919791526
+Average loss of validation set 79: 0.0001695620095853305
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 79: [0.19, 0.69, 0.95, 1.0]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 78, 79]]
+Epoch: 80
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 80: [0.09444444444444444, 0.5466666666666666, 0.88, 0.9822222222222222] 
+Average loss of training set 80: 0.00021524195372163077
+Average loss of validation set 80: 0.00022882843296354342
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 80: [0.1, 0.47, 0.84, 0.98]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 78, 79]]
+Epoch: 81
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 81: [0.22666666666666666, 0.8355555555555556, 0.9588888888888889, 0.9988888888888889] 
+Average loss of training set 81: 0.0001510574335593107
+Average loss of validation set 81: 0.0001493799007669321
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 81: [0.22, 0.81, 0.96, 0.99]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 81, 79]]
+Epoch: 82
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 82: [0.09333333333333334, 0.5288888888888889, 0.8688888888888889, 0.9633333333333334] 
+Average loss of training set 82: 0.0002206567846360308
+Average loss of validation set 82: 0.00023482576447712194
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 82: [0.11, 0.43, 0.83, 0.93]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 81, 79]]
+Epoch: 83
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 83: [0.22666666666666666, 0.8, 0.9455555555555556, 0.9966666666666667] 
+Average loss of training set 83: 0.00014451117870476377
+Average loss of validation set 83: 0.00015955697375715161
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 83: [0.21, 0.72, 0.92, 0.99]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 81, 79]]
+Epoch: 84
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 84: [0.2, 0.7877777777777778, 0.9588888888888889, 0.9988888888888889] 
+Average loss of training set 84: 0.0001637470361912485
+Average loss of validation set 84: 0.00015942357124621844
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 84: [0.21, 0.78, 0.94, 0.99]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 81, 79]]
+Epoch: 85
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 85: [0.11, 0.6366666666666667, 0.9111111111111111, 0.9922222222222222] 
+Average loss of training set 85: 0.00021333736497542553
+Average loss of validation set 85: 0.00020088390625995248
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 85: [0.09, 0.65, 0.87, 0.99]
+[best: [0.28, 0.84, 0.96, 1.0] @ epoch [63, 77, 81, 79]]
+Epoch: 86
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 86: [0.21888888888888888, 0.7988888888888889, 0.9566666666666667, 0.9988888888888889] 
+Average loss of training set 86: 0.00014713060925115
+Average loss of validation set 86: 0.0001588430338505448
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 86: [0.22, 0.7, 0.98, 1.0]
+[best: [0.28, 0.84, 0.98, 1.0] @ epoch [63, 77, 86, 86]]
+Epoch: 87
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 87: [0.08888888888888889, 0.6488888888888888, 0.9488888888888889, 0.9988888888888889] 
+Average loss of training set 87: 0.00022629550909087883
+Average loss of validation set 87: 0.00020899717454816427
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 87: [0.12, 0.72, 0.93, 0.99]
+[best: [0.28, 0.84, 0.98, 1.0] @ epoch [63, 77, 86, 86]]
+Epoch: 88
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 88: [0.15, 0.7244444444444444, 0.9177777777777778, 0.9933333333333333] 
+Average loss of training set 88: 0.00017824547900018072
+Average loss of validation set 88: 0.00017866985923585974
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 88: [0.2, 0.68, 0.88, 0.99]
+[best: [0.28, 0.84, 0.98, 1.0] @ epoch [63, 77, 86, 86]]
+Epoch 00068: reducing learning rate of group 0 to 5.0000e-05.
+Epoch: 89
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 89: [0.28444444444444444, 0.8655555555555555, 0.9633333333333334, 0.9988888888888889] 
+Average loss of training set 89: 0.00013322373299757924
+Average loss of validation set 89: 0.0001376747548870268
+Lowest val_loss: 0.013767475488702682... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 89: [0.33, 0.87, 0.98, 0.99]
+[best: [0.33, 0.87, 0.98, 1.0] @ epoch [89, 89, 89, 86]]
+Epoch: 90
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 90: [0.2511111111111111, 0.8533333333333334, 0.9655555555555555, 0.9988888888888889] 
+Average loss of training set 90: 0.0001309239743050359
+Average loss of validation set 90: 0.00014039649393076225
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 90: [0.21, 0.75, 0.98, 1.0]
+[best: [0.33, 0.87, 0.98, 1.0] @ epoch [89, 89, 90, 90]]
+Epoch: 91
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 91: [0.14555555555555555, 0.7133333333333334, 0.9044444444444445, 0.9733333333333334] 
+Average loss of training set 91: 0.0001711937176243681
+Average loss of validation set 91: 0.00018582632615345423
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 91: [0.16, 0.59, 0.87, 0.97]
+[best: [0.33, 0.87, 0.98, 1.0] @ epoch [89, 89, 90, 90]]
+Epoch: 92
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 92: [0.29555555555555557, 0.8833333333333333, 0.97, 0.9988888888888889] 
+Average loss of training set 92: 0.0001239992841777834
+Average loss of validation set 92: 0.00013540742840298516
+Lowest val_loss: 0.013540742840298516... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 92: [0.23, 0.83, 0.98, 1.0]
+[best: [0.33, 0.87, 0.98, 1.0] @ epoch [89, 89, 92, 92]]
+Epoch: 93
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 93: [0.27111111111111114, 0.8655555555555555, 0.9677777777777777, 0.9988888888888889] 
+Average loss of training set 93: 0.00012845380071789262
+Average loss of validation set 93: 0.0001374320989365978
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 93: [0.25, 0.82, 0.97, 1.0]
+[best: [0.33, 0.87, 0.98, 1.0] @ epoch [89, 89, 92, 93]]
+Epoch: 94
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 94: [0.24, 0.8644444444444445, 0.9644444444444444, 0.9988888888888889] 
+Average loss of training set 94: 0.00013134293141619737
+Average loss of validation set 94: 0.00014540528722557244
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 94: [0.21, 0.79, 0.99, 1.0]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 94]]
+Epoch: 95
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 95: [0.23555555555555555, 0.8622222222222222, 0.9655555555555555, 0.9988888888888889] 
+Average loss of training set 95: 0.00014114000636749293
+Average loss of validation set 95: 0.00013790303126422714
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 95: [0.29, 0.86, 0.97, 0.99]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 94]]
+Epoch: 96
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 96: [0.24555555555555555, 0.8211111111111111, 0.96, 0.9988888888888889] 
+Average loss of training set 96: 0.00013878818899014885
+Average loss of validation set 96: 0.0001402556605291877
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 96: [0.28, 0.8, 0.96, 0.99]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 94]]
+Epoch: 97
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 97: [0.20222222222222222, 0.8288888888888889, 0.9644444444444444, 0.9988888888888889] 
+Average loss of training set 97: 0.00014424190686663057
+Average loss of validation set 97: 0.00016102927164204342
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 97: [0.18, 0.79, 0.97, 1.0]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 97]]
+Epoch: 98
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 98: [0.26, 0.8377777777777777, 0.9666666666666667, 0.9988888888888889] 
+Average loss of training set 98: 0.0001358879778496163
+Average loss of validation set 98: 0.0001374242749892806
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 98: [0.26, 0.81, 0.96, 0.99]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 97]]
+Epoch: 99
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 99: [0.2966666666666667, 0.87, 0.9688888888888889, 0.9988888888888889] 
+Average loss of training set 99: 0.00012789118637445714
+Average loss of validation set 99: 0.00014440382592453678
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 99: [0.23, 0.82, 0.97, 1.0]
+[best: [0.33, 0.87, 0.99, 1.0] @ epoch [89, 89, 94, 99]]
+Epoch: 100
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 100: [0.28555555555555556, 0.8577777777777778, 0.9655555555555555, 0.9988888888888889] 
+Average loss of training set 100: 0.0001402242521775516
+Average loss of validation set 100: 0.00013259510684092706
+Lowest val_loss: 0.013259510684092705... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 100: [0.36, 0.86, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 99]]
+Epoch: 101
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 101: [0.2011111111111111, 0.8444444444444444, 0.9644444444444444, 0.9988888888888889] 
+Average loss of training set 101: 0.00014353955793553461
+Average loss of validation set 101: 0.000162251874264049
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 101: [0.14, 0.8, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 101]]
+Epoch: 102
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 102: [0.3244444444444444, 0.8866666666666667, 0.9688888888888889, 0.9988888888888889] 
+Average loss of training set 102: 0.0001172032330491773
+Average loss of validation set 102: 0.00013142920256850883
+Lowest val_loss: 0.013142920256850883... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 102: [0.28, 0.86, 0.98, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 101]]
+Epoch: 103
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 103: [0.27555555555555555, 0.8733333333333333, 0.97, 0.9988888888888889] 
+Average loss of training set 103: 0.00012659786759241398
+Average loss of validation set 103: 0.00013853298761203354
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 103: [0.26, 0.86, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 101]]
+Epoch: 104
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 104: [0.3377777777777778, 0.8533333333333334, 0.97, 0.9988888888888889] 
+Average loss of training set 104: 0.00012027884531002149
+Average loss of validation set 104: 0.00014290348397597586
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 104: [0.26, 0.8, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 101]]
+Epoch: 105
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 105: [0.2644444444444444, 0.8344444444444444, 0.9688888888888889, 0.9988888888888889] 
+Average loss of training set 105: 0.00012969453542618968
+Average loss of validation set 105: 0.00014208783544190516
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 105: [0.25, 0.79, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 101]]
+Epoch: 106
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 106: [0.27666666666666667, 0.8377777777777777, 0.97, 0.9988888888888889] 
+Average loss of training set 106: 0.00012221102893612292
+Average loss of validation set 106: 0.00013645459258201432
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 106: [0.24, 0.8, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 106]]
+Epoch: 107
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 107: [0.22333333333333333, 0.8288888888888889, 0.9666666666666667, 0.9955555555555555] 
+Average loss of training set 107: 0.00013816817847438892
+Average loss of validation set 107: 0.000149119401080007
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 107: [0.2, 0.74, 0.96, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 106]]
+Epoch: 108
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 108: [0.2966666666666667, 0.8955555555555555, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 108: 0.00011856386820782692
+Average loss of validation set 108: 0.0001282806729812084
+Lowest val_loss: 0.01282806729812084... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 108: [0.33, 0.86, 0.98, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 106]]
+Epoch: 109
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 109: [0.33, 0.8855555555555555, 0.9722222222222222, 0.9988888888888889] 
+Average loss of training set 109: 0.00011635210053924194
+Average loss of validation set 109: 0.00013502245349628075
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 109: [0.3, 0.85, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 89, 94, 109]]
+Epoch: 110
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 110: [0.29777777777777775, 0.8844444444444445, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 110: 0.00011945090379501992
+Average loss of validation set 110: 0.00012821797852424194
+Lowest val_loss: 0.012821797852424193... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 110: [0.22, 0.87, 0.99, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 110, 110, 110]]
+Epoch: 111
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 111: [0.25666666666666665, 0.8588888888888889, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 111: 0.00013542708167116433
+Average loss of validation set 111: 0.00013777709574355822
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 111: [0.32, 0.85, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 110, 110, 110]]
+Epoch: 112
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 112: [0.11888888888888889, 0.7733333333333333, 0.9377777777777778, 0.9955555555555555] 
+Average loss of training set 112: 0.00016802999879988336
+Average loss of validation set 112: 0.00017529277957295132
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 112: [0.14, 0.69, 0.89, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 110, 110, 110]]
+Epoch: 113
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 113: [0.34444444444444444, 0.8811111111111111, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 113: 0.00012089385133549014
+Average loss of validation set 113: 0.0001254332443191176
+Lowest val_loss: 0.012543324431911761... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 113: [0.34, 0.85, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 110, 110, 110]]
+Epoch: 114
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 114: [0.3055555555555556, 0.8766666666666667, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 114: 0.00011822119592926953
+Average loss of validation set 114: 0.00014184070407483862
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 114: [0.2, 0.87, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 114]]
+Epoch: 115
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 115: [0.1922222222222222, 0.8544444444444445, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 115: 0.00014568942434921796
+Average loss of validation set 115: 0.00016417641654786245
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 115: [0.18, 0.78, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 115]]
+Epoch: 116
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 116: [0.3188888888888889, 0.8755555555555555, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 116: 0.0001222893616772293
+Average loss of validation set 116: 0.00014641429526809078
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 116: [0.28, 0.83, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 115]]
+Epoch: 117
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 117: [0.29, 0.8266666666666667, 0.9722222222222222, 0.9988888888888889] 
+Average loss of training set 117: 0.00012609337107000917
+Average loss of validation set 117: 0.000134259289102504
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 117: [0.23, 0.8, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 117]]
+Epoch: 118
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 118: [0.35777777777777775, 0.8866666666666667, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 118: 0.00011125941979600345
+Average loss of validation set 118: 0.00012822970359782274
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 118: [0.27, 0.86, 0.98, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 117]]
+Epoch: 119
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 119: [0.28444444444444444, 0.8444444444444444, 0.9722222222222222, 0.9988888888888889] 
+Average loss of training set 119: 0.0001218504128357696
+Average loss of validation set 119: 0.0001437137049606832
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 119: [0.21, 0.78, 0.96, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 117]]
+Epoch: 120
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 120: [0.2677777777777778, 0.8822222222222222, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 120: 0.00012084337076760846
+Average loss of validation set 120: 0.00014083035373339118
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 120: [0.22, 0.84, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 120]]
+Epoch: 121
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 121: [0.20333333333333334, 0.7866666666666666, 0.9222222222222223, 0.9933333333333333] 
+Average loss of training set 121: 0.00014567258966820463
+Average loss of validation set 121: 0.00016755695011427894
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 121: [0.14, 0.74, 0.89, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 120]]
+Epoch: 122
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 122: [0.3711111111111111, 0.8922222222222222, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 122: 0.00011500530830980005
+Average loss of validation set 122: 0.0001258484061826749
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 122: [0.35, 0.85, 0.98, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 120]]
+Epoch: 123
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 123: [0.21222222222222223, 0.8244444444444444, 0.9444444444444444, 0.9977777777777778] 
+Average loss of training set 123: 0.0001344514057171531
+Average loss of validation set 123: 0.00015535077382913007
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 123: [0.21, 0.76, 0.92, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 123]]
+Epoch: 124
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 124: [0.3466666666666667, 0.8877777777777778, 0.9722222222222222, 0.9988888888888889] 
+Average loss of training set 124: 0.00011140584337460562
+Average loss of validation set 124: 0.00013407178683438807
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 124: [0.31, 0.85, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 123]]
+Epoch 00104: reducing learning rate of group 0 to 2.5000e-05.
+Epoch: 125
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 125: [0.34444444444444444, 0.8933333333333333, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 125: 0.00010872634575961293
+Average loss of validation set 125: 0.00013183058491949884
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 125: [0.17, 0.85, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 125]]
+Epoch: 126
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 126: [0.3244444444444444, 0.8755555555555555, 0.9733333333333334, 0.9988888888888889] 
+Average loss of training set 126: 0.00011207868990754203
+Average loss of validation set 126: 0.00013531705792796153
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 126: [0.22, 0.83, 0.97, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 126]]
+Epoch: 127
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 127: [0.38555555555555554, 0.8677777777777778, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 127: 0.00010672000586515948
+Average loss of validation set 127: 0.00013216829220978135
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 127: [0.27, 0.8, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 126]]
+Epoch: 128
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 128: [0.2788888888888889, 0.89, 0.9766666666666667, 0.9988888888888889] 
+Average loss of training set 128: 0.0001143384853964285
+Average loss of validation set 128: 0.00013856686204951222
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 128: [0.25, 0.85, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 128]]
+Epoch: 129
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 129: [0.3977777777777778, 0.8955555555555555, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 129: 0.00010475721755517826
+Average loss of validation set 129: 0.00012929182769098535
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 129: [0.31, 0.86, 0.97, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 129]]
+Epoch: 130
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 130: [0.30444444444444446, 0.8522222222222222, 0.9733333333333334, 0.9988888888888889] 
+Average loss of training set 130: 0.00011467657886714553
+Average loss of validation set 130: 0.00013838017294623314
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 130: [0.24, 0.78, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 129]]
+Epoch: 131
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 131: [0.3522222222222222, 0.8822222222222222, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 131: 0.00010918911057545611
+Average loss of validation set 131: 0.00013183959809280482
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 131: [0.26, 0.82, 0.97, 0.99]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 114, 110, 129]]
+Epoch: 132
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 132: [0.3511111111111111, 0.89, 0.9755555555555555, 0.9977777777777778] 
+Average loss of training set 132: 0.00010880097355990197
+Average loss of validation set 132: 0.00012781313948380645
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 132: [0.24, 0.87, 0.98, 1.0]
+[best: [0.36, 0.87, 0.99, 1.0] @ epoch [100, 132, 110, 132]]
+Epoch: 133
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 133: [0.36666666666666664, 0.8922222222222222, 0.9788888888888889, 0.9977777777777778] 
+Average loss of training set 133: 0.00010399926206167277
+Average loss of validation set 133: 0.00012173047051313273
+Lowest val_loss: 0.012173047051313272... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 133: [0.27, 0.9, 0.98, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 133]]
+Epoch: 134
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 134: [0.2911111111111111, 0.8822222222222222, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 134: 0.00011481470013030063
+Average loss of validation set 134: 0.00013838569868922517
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 134: [0.21, 0.83, 0.97, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 134]]
+Epoch: 135
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 135: [0.35333333333333333, 0.8944444444444445, 0.9766666666666667, 0.9977777777777778] 
+Average loss of training set 135: 0.00010595300938785145
+Average loss of validation set 135: 0.00012614879313546583
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 135: [0.28, 0.88, 0.98, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 135]]
+Epoch: 136
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 136: [0.37555555555555553, 0.8955555555555555, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 136: 0.00010756329182437598
+Average loss of validation set 136: 0.00013350911514966216
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 136: [0.31, 0.81, 0.96, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 135]]
+Epoch: 137
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 137: [0.24666666666666667, 0.8533333333333334, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 137: 0.000117392316222261
+Average loss of validation set 137: 0.00013998118134203992
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 137: [0.19, 0.81, 0.98, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 137]]
+Epoch: 138
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 138: [0.36444444444444446, 0.8811111111111111, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 138: 0.00010631522731361658
+Average loss of validation set 138: 0.00013203151631990522
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 138: [0.23, 0.86, 0.97, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 138]]
+Epoch: 139
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 139: [0.3566666666666667, 0.88, 0.9755555555555555, 0.9977777777777778] 
+Average loss of training set 139: 0.00011511743566195
+Average loss of validation set 139: 0.00012418351810846259
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 139: [0.34, 0.85, 0.96, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 138]]
+Epoch: 140
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 140: [0.43444444444444447, 0.8966666666666666, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 140: 9.922839815963897e-05
+Average loss of validation set 140: 0.0001228197872444697
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 140: [0.32, 0.88, 0.98, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 138]]
+Epoch: 141
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 141: [0.39, 0.9055555555555556, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 141: 0.00010158480739635432
+Average loss of validation set 141: 0.0001277372929827445
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 141: [0.28, 0.86, 0.97, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 141]]
+Epoch: 142
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 142: [0.3511111111111111, 0.8955555555555555, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 142: 0.00010772364143096997
+Average loss of validation set 142: 0.00013336256576427984
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 142: [0.31, 0.86, 0.97, 1.0]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 142]]
+Epoch: 143
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 143: [0.41333333333333333, 0.8911111111111111, 0.9766666666666667, 0.9988888888888889] 
+Average loss of training set 143: 0.00010394016377082458
+Average loss of validation set 143: 0.0001301243985428049
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 143: [0.33, 0.83, 0.96, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 142]]
+Epoch: 144
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 144: [0.31555555555555553, 0.86, 0.9744444444444444, 0.9977777777777778] 
+Average loss of training set 144: 0.0001143710458766341
+Average loss of validation set 144: 0.00013070863006994475
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 144: [0.31, 0.82, 0.96, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 142]]
+Epoch 00124: reducing learning rate of group 0 to 1.2500e-05.
+Epoch: 145
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 145: [0.4122222222222222, 0.8888888888888888, 0.9766666666666667, 0.9988888888888889] 
+Average loss of training set 145: 0.00010452913768264064
+Average loss of validation set 145: 0.00012562806198591626
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 145: [0.32, 0.85, 0.97, 0.99]
+[best: [0.36, 0.9, 0.99, 1.0] @ epoch [100, 133, 110, 142]]
+Epoch: 146
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 146: [0.43, 0.9011111111111111, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 146: 9.955958273178162e-05
+Average loss of validation set 146: 0.00012490221185405752
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 146: [0.37, 0.85, 0.97, 0.99]
+[best: [0.37, 0.9, 0.99, 1.0] @ epoch [146, 133, 110, 142]]
+Epoch: 147
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 147: [0.17444444444444446, 0.8455555555555555, 0.9711111111111111, 0.9988888888888889] 
+Average loss of training set 147: 0.00013030302104296207
+Average loss of validation set 147: 0.00015242797387493145
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 147: [0.16, 0.79, 0.98, 1.0]
+[best: [0.37, 0.9, 0.99, 1.0] @ epoch [146, 133, 110, 147]]
+Epoch: 148
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 148: [0.17333333333333334, 0.8344444444444444, 0.9688888888888889, 0.9955555555555555] 
+Average loss of training set 148: 0.00013860489122050277
+Average loss of validation set 148: 0.00015114784326546627
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 148: [0.18, 0.75, 0.97, 0.99]
+[best: [0.37, 0.9, 0.99, 1.0] @ epoch [146, 133, 110, 147]]
+Epoch: 149
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 149: [0.41555555555555557, 0.9, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 149: 0.0001011688059357388
+Average loss of validation set 149: 0.00012434342855608226
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 149: [0.38, 0.85, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 147]]
+Epoch: 150
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 150: [0.3888888888888889, 0.8955555555555555, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 150: 0.00010419309655745556
+Average loss of validation set 150: 0.00012732305040788125
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 150: [0.34, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 147]]
+Epoch: 151
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 151: [0.37555555555555553, 0.8644444444444445, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 151: 0.00010576559326584167
+Average loss of validation set 151: 0.0001318664470995173
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 151: [0.31, 0.82, 0.96, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 147]]
+Epoch: 152
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 152: [0.38, 0.8888888888888888, 0.9777777777777777, 0.9977777777777778] 
+Average loss of training set 152: 0.00010732500331621943
+Average loss of validation set 152: 0.00012626730767271093
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 152: [0.34, 0.89, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 147]]
+Epoch: 153
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 153: [0.42, 0.8988888888888888, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 153: 0.00010129316549270375
+Average loss of validation set 153: 0.00012784933308316728
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 153: [0.35, 0.85, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 147]]
+Epoch: 154
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 154: [0.3466666666666667, 0.8833333333333333, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 154: 0.0001052383028651914
+Average loss of validation set 154: 0.000132372562177588
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 154: [0.2, 0.85, 0.97, 1.0]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 154]]
+Epoch: 155
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 155: [0.44222222222222224, 0.8944444444444445, 0.9766666666666667, 0.9988888888888889] 
+Average loss of training set 155: 9.84438155235412e-05
+Average loss of validation set 155: 0.0001278589774446825
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 155: [0.31, 0.85, 0.97, 1.0]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [149, 133, 110, 155]]
+Epoch 00135: reducing learning rate of group 0 to 6.2500e-06.
+Epoch: 156
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 156: [0.48444444444444446, 0.9, 0.98, 0.9988888888888889] 
+Average loss of training set 156: 9.686243411942665e-05
+Average loss of validation set 156: 0.00012043606615022497
+Lowest val_loss: 0.012043606615022497... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 156: [0.38, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 155]]
+Epoch: 157
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 157: [0.4488888888888889, 0.9011111111111111, 0.9755555555555555, 0.9988888888888889] 
+Average loss of training set 157: 9.995261107722267e-05
+Average loss of validation set 157: 0.00012180658215143289
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 157: [0.37, 0.86, 0.98, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 155]]
+Epoch: 158
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 158: [0.4388888888888889, 0.8988888888888888, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 158: 9.958874173823771e-05
+Average loss of validation set 158: 0.00012417359875607195
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 158: [0.35, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 155]]
+Epoch: 159
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 159: [0.4622222222222222, 0.9022222222222223, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 159: 9.61497060473636e-05
+Average loss of validation set 159: 0.0001226586013929761
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 159: [0.35, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 155]]
+Epoch: 160
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 160: [0.4411111111111111, 0.8944444444444445, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 160: 9.745247561328095e-05
+Average loss of validation set 160: 0.00012445890771510337
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 160: [0.29, 0.85, 0.97, 1.0]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 160]]
+Epoch: 161
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 161: [0.46555555555555556, 0.9011111111111111, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 161: 9.737435082831337e-05
+Average loss of validation set 161: 0.0001249032961830598
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 161: [0.36, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 160]]
+Epoch: 162
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 162: [0.4777777777777778, 0.8977777777777778, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 162: 9.605633911153741e-05
+Average loss of validation set 162: 0.00012190569815196726
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 162: [0.37, 0.86, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 160]]
+Epoch: 163
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 163: [0.4622222222222222, 0.9, 0.98, 0.9988888888888889] 
+Average loss of training set 163: 9.598580895182146e-05
+Average loss of validation set 163: 0.00012275712396170739
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 163: [0.35, 0.86, 0.97, 1.0]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 163]]
+Epoch: 164
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 164: [0.3888888888888889, 0.8833333333333333, 0.9777777777777777, 0.9977777777777778] 
+Average loss of training set 164: 0.00010536925431871917
+Average loss of validation set 164: 0.00012886686498493754
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 164: [0.28, 0.82, 0.97, 0.99]
+[best: [0.38, 0.9, 0.99, 1.0] @ epoch [156, 133, 110, 163]]
+Epoch: 165
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 165: [0.49333333333333335, 0.8966666666666666, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 165: 9.541931977866302e-05
+Average loss of validation set 165: 0.00012128095609450643
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 165: [0.42, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 166
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 166: [0.27555555555555555, 0.8588888888888889, 0.9744444444444444, 0.9988888888888889] 
+Average loss of training set 166: 0.00011748033098136225
+Average loss of validation set 166: 0.00013922883518774294
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 166: [0.22, 0.79, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 167
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 167: [0.38666666666666666, 0.8922222222222222, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 167: 0.00010325646534895927
+Average loss of validation set 167: 0.0001280370439820419
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 167: [0.33, 0.86, 0.96, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch 00147: reducing learning rate of group 0 to 3.1250e-06.
+Epoch: 168
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 168: [0.4822222222222222, 0.9011111111111111, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 168: 9.463822523826604e-05
+Average loss of validation set 168: 0.00012160243299073291
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 168: [0.36, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 169
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 169: [0.4922222222222222, 0.9, 0.98, 0.9988888888888889] 
+Average loss of training set 169: 9.447141294125004e-05
+Average loss of validation set 169: 0.00012026047317147157
+Lowest val_loss: 0.012026047317147157... Predictor model saved.
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 169: [0.35, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 170
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 170: [0.4722222222222222, 0.9, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 170: 9.525499367340737e-05
+Average loss of validation set 170: 0.00012341803604130644
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 170: [0.37, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 171
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 171: [0.4866666666666667, 0.8966666666666666, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 171: 9.517756747819983e-05
+Average loss of validation set 171: 0.00012245004629694666
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 171: [0.4, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 163]]
+Epoch: 172
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 172: [0.41444444444444445, 0.8933333333333333, 0.98, 0.9988888888888889] 
+Average loss of training set 172: 9.787115778038649e-05
+Average loss of validation set 172: 0.00012512577247347697
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 172: [0.29, 0.87, 0.97, 1.0]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 172]]
+Epoch: 173
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 173: [0.4855555555555556, 0.8977777777777778, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 173: 9.477285421751352e-05
+Average loss of validation set 173: 0.00012039187043921294
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 173: [0.39, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 172]]
+Epoch: 174
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 174: [0.48777777777777775, 0.8977777777777778, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 174: 9.462290375253862e-05
+Average loss of validation set 174: 0.00012205521129401905
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 174: [0.4, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 172]]
+Epoch: 175
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 175: [0.41555555555555557, 0.8922222222222222, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 175: 0.0001017362233831114
+Average loss of validation set 175: 0.0001272252286571025
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 175: [0.33, 0.86, 0.96, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 172]]
+Epoch: 176
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 176: [0.46111111111111114, 0.8944444444444445, 0.9811111111111112, 0.9988888888888889] 
+Average loss of training set 176: 9.55694364829934e-05
+Average loss of validation set 176: 0.00012314401615823127
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 176: [0.3, 0.87, 0.97, 1.0]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 176]]
+Epoch: 177
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 177: [0.46555555555555556, 0.9022222222222223, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 177: 9.750446731908326e-05
+Average loss of validation set 177: 0.00012311190957251984
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 177: [0.39, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 176]]
+Epoch: 178
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 178: [0.4666666666666667, 0.8988888888888888, 0.9811111111111112, 0.9988888888888889] 
+Average loss of training set 178: 9.537116404161579e-05
+Average loss of validation set 178: 0.0001236967535403349
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 178: [0.34, 0.87, 0.97, 1.0]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch 00158: reducing learning rate of group 0 to 1.5625e-06.
+Epoch: 179
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 179: [0.46555555555555556, 0.9, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 179: 9.723082720713066e-05
+Average loss of validation set 179: 0.00012315058991878901
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 179: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 180
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 180: [0.4688888888888889, 0.9011111111111111, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 180: 9.649864735039552e-05
+Average loss of validation set 180: 0.00012281751517310462
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 180: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 181
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 181: [0.4822222222222222, 0.9022222222222223, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 181: 9.469933239558916e-05
+Average loss of validation set 181: 0.0001230084054034696
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 181: [0.36, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 182
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 182: [0.49333333333333335, 0.9011111111111111, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 182: 9.458975986453387e-05
+Average loss of validation set 182: 0.00012151629019247311
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 182: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 183
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 183: [0.5, 0.8988888888888888, 0.98, 0.9988888888888889] 
+Average loss of training set 183: 9.380913353276901e-05
+Average loss of validation set 183: 0.0001214445654086078
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 183: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 184
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 184: [0.49777777777777776, 0.9, 0.98, 0.9988888888888889] 
+Average loss of training set 184: 9.376355896788313e-05
+Average loss of validation set 184: 0.00012172804280881849
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 184: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 185
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 185: [0.4866666666666667, 0.9011111111111111, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 185: 9.40876401709192e-05
+Average loss of validation set 185: 0.00012257831249369773
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 185: [0.35, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 186
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 186: [0.4866666666666667, 0.9, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 186: 9.439535624275965e-05
+Average loss of validation set 186: 0.00012168390577005727
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 186: [0.39, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 187
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 187: [0.49666666666666665, 0.9, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 187: 9.392694040115146e-05
+Average loss of validation set 187: 0.00012230117927355778
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 187: [0.36, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 188
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 188: [0.46444444444444444, 0.8988888888888888, 0.9766666666666667, 0.9988888888888889] 
+Average loss of training set 188: 9.80029974238145e-05
+Average loss of validation set 188: 0.0001234423567714093
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 188: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 178]]
+Epoch: 189
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 189: [0.44555555555555554, 0.8944444444444445, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 189: 9.630557269656983e-05
+Average loss of validation set 189: 0.00012417609058021364
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 189: [0.3, 0.87, 0.97, 1.0]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch 00169: reducing learning rate of group 0 to 7.8125e-07.
+Epoch: 190
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 190: [0.5, 0.9, 0.98, 0.9988888888888889] 
+Average loss of training set 190: 9.371207930881163e-05
+Average loss of validation set 190: 0.00012152485476343366
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 190: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 191
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 191: [0.4955555555555556, 0.8988888888888888, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 191: 9.369667367066212e-05
+Average loss of validation set 191: 0.00012190593811831023
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 191: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 192
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 192: [0.4866666666666667, 0.8988888888888888, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 192: 9.396812412576548e-05
+Average loss of validation set 192: 0.00012257777950115898
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 192: [0.38, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 193
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 193: [0.47, 0.8977777777777778, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 193: 9.624064862944563e-05
+Average loss of validation set 193: 0.00012373265000934581
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 193: [0.35, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 194
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 194: [0.4766666666666667, 0.8977777777777778, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 194: 9.594355478889236e-05
+Average loss of validation set 194: 0.00012347903841413568
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 194: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 195
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 195: [0.48777777777777775, 0.9022222222222223, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 195: 9.371097028328716e-05
+Average loss of validation set 195: 0.00012166820199818974
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 195: [0.37, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 196
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 196: [0.48333333333333334, 0.8988888888888888, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 196: 9.527908336257728e-05
+Average loss of validation set 196: 0.00012217758811592855
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 196: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 197
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 197: [0.47, 0.8988888888888888, 0.9777777777777777, 0.9988888888888889] 
+Average loss of training set 197: 9.645523563101197e-05
+Average loss of validation set 197: 0.0001237043446033656
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 197: [0.36, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 198
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 198: [0.49333333333333335, 0.9022222222222223, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 198: 9.358449759414075e-05
+Average loss of validation set 198: 0.00012159586917809749
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 198: [0.37, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 199
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 199: [0.4922222222222222, 0.9011111111111111, 0.98, 0.9988888888888889] 
+Average loss of training set 199: 9.355836740406239e-05
+Average loss of validation set 199: 0.00012169944093228106
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 199: [0.36, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 200
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 200: [0.4911111111111111, 0.8988888888888888, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 200: 9.394911282905023e-05
+Average loss of validation set 200: 0.00012213607930750808
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 200: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch 00180: reducing learning rate of group 0 to 3.9063e-07.
+Epoch: 201
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 201: [0.4988888888888889, 0.9, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 201: 9.359925548988455e-05
+Average loss of validation set 201: 0.00012183502350436663
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 201: [0.36, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 202
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 202: [0.4866666666666667, 0.8988888888888888, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 202: 9.44871834667372e-05
+Average loss of validation set 202: 0.0001224228437413088
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 202: [0.37, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 203
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 203: [0.4922222222222222, 0.8977777777777778, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 203: 9.367753147918937e-05
+Average loss of validation set 203: 0.00012216446590913383
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 203: [0.37, 0.85, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Epoch: 204
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of train set for epoch 204: [0.4888888888888889, 0.9, 0.9788888888888889, 0.9988888888888889] 
+Average loss of training set 204: 9.401688788663803e-05
+Average loss of validation set 204: 0.0001222159316020451
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of validation set for epoch 204: [0.38, 0.86, 0.97, 0.99]
+[best: [0.42, 0.9, 0.99, 1.0] @ epoch [165, 133, 110, 189]]
+Early stopping criterion is met, stop training now.
+Training finished!
+Top +-[0.01, 0.05, 0.1, 0.2] Accuracy of test set: [0.3686207799005496, 0.8520675215912065, 0.9682020413504319, 0.9977100235540435]
+Average loss of test set: 0.00013151149505487823
